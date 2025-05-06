@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${poiret.className} antialiased grid grid-cols-[250px_1fr]`}
+        className={`${poiret.className} antialiased grid grid-cols-[250px_1fr] bg-[#f4f4f4]`}
       >
         <Sidebar />
         <main className="">{children}</main>

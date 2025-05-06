@@ -19,7 +19,7 @@ const primaryLinks = [
   },
   {
     id: 2,
-    label: "About",
+    label: "About Us",
     path: "/about",
     icon: <LucideUserRoundSearch />,
   },
